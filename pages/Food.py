@@ -18,5 +18,5 @@ with col3:
    st.header("Vegetable")
    st.markdown("No matter what season or night of the week it is, whether you're entertaining or cooking for yourself, there's a vegetable entrée sure to check all the right boxes. Perhaps you're looking to reduce your meat intake, or maybe you just want to make the best use of peak produce — whatever the case may be, we've put together this collection of vegetable main courses to give you some ideas. ")
    
-st.image("kmt05.jpg")
+#st.image("kmt05.jpg")
 
