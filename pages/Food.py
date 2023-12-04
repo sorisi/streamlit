@@ -21,8 +21,5 @@ with col3:
 <<<<<<< HEAD
    
    
-st.image("kmt05.jpg")
-=======
-st.image("kmt05.jpg")
->>>>>>> 96362696fb1b35fefc2199510c032ed29da6a146
+st.image("graffiti.jpg")
 
