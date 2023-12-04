@@ -1,5 +1,5 @@
 import streamlit as st
-#import yfinance as yf
+import yfinance as yf
 import pandas as pd
 import numpy as np
 import datetime
@@ -24,7 +24,7 @@ def relativeret(df):
     return cumret
 
 if len(dropdown) > 0:
-    #df = yf.download(dropdown,start,end)['Adj Close']
+    df = yf.download(dropdown,start,end)['Adj Close']
     df = relativeret(yf.download(dropdown,start,end)['Adj Close'])
     st.header('*Returns of {}*'.format(dropdown))
     st.line_chart(df)
