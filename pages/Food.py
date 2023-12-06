@@ -24,7 +24,7 @@ with col3:
    
    
    
-st.image("kmt05.jpg")
+#st.image("kmt05.jpg")
 
 
          
