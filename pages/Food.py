@@ -22,12 +22,9 @@ with col3:
 
    st.write("[Vegatables & Fruits](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/)")
    
-<<<<<<< HEAD
    
    
 st.image("kmt05.jpg")
-=======
-#st.image("kmt05.jpg")
->>>>>>> 96362696fb1b35fefc2199510c032ed29da6a146
+
 
          
