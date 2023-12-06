@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import datetime
 #import appdirs as ad
-ad.user_cache_dir = lambda *args: "/tmp"
+#ad.user_cache_dir = lambda *args: "/tmp"
 
 st.header("Home of Savings or Investment (SORI)")
 st.image("nov2023.png")
