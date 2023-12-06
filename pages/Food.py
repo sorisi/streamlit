@@ -8,21 +8,22 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.header("Beef")
-   st.markdown("Take the decision making out of your next meal. Explore classic beef dishes like meatloaf, chili, lasagna, meatballs, burgers and steaks. Whether it's for a quick and easy family dinner or a special occasion, our collections have a variety of choices for everyone!")
+   st.markdown("Our Mongolian beef is incredibly quick and easy to make. In fact, it can be made in under 30 minutes making it a perfect weeknight dinner! Serve it with a little steamed rice and broccoli and you have a quick, delicious and flavor packed complete meal! We love making a double batch so we have plenty of leftovers to enjoy the next day.")
+   st.write("[Beef Recipe](https://www.spoonforkbacon.com/mongolian-beef-over-steamed-rice/)")
 
 with col2:
    st.header("Chicken")
-   st.markdown("We've rounded up more than 100 of our favorite chicken recipes so that you'll never have to look too far to find an easy recipe that will please your crowd any night of the week. These chicken recipes include everything from Southwest Chicken Tortillas to BBQ Chicken Pizza to Chicken Pot Pie.  ")
+   st.markdown(" This homemade chicken soup recipe is well worth making — it's good for the body and the soul. How is it that plain chicken and vegetables simmered together can taste so satisfying? You don't have to be sick to deserve to enjoy it!")
+   st.write("[Chicken Soup](https://www.allrecipes.com/recipe/8814/homemade-chicken-soup/)")
 
 with col3:
    st.header("Vegetable")
-   st.markdown("No matter what season or night of the week it is, whether you're entertaining or cooking for yourself, there's a vegetable entrée sure to check all the right boxes. Perhaps you're looking to reduce your meat intake, or maybe you just want to make the best use of peak produce — whatever the case may be, we've put together this collection of vegetable main courses to give you some ideas. ")
-   
-<<<<<<< HEAD
-   
-   
-st.image("kmt05.jpg")
-=======
-#st.image("kmt05.jpg")
->>>>>>> 96362696fb1b35fefc2199510c032ed29da6a146
+   st.markdown("A diet rich in vegetables and fruits can lower blood pressure, reduce the risk of heart disease and stroke, prevent some types of cancer, lower risk of eye and digestive problems, and have a positive effect upon blood sugar, which can help keep appetite in check. Eating non-starchy vegetables and fruits like apples, pears, and green leafy vegetables may even promote weight loss.")
 
+   st.write("[Vegatables & Fruits](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/)")
+   
+
+st.image("veg01.jpg")
+   
+
+         
