@@ -7,22 +7,22 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.subheader("Current")
-   st.markdown("Years from now, when a new generation of kids wants to dress like 2023, what sort of objects will they look at? May this wrap-up be but a humble guide for them.   ")
-   st.image("https://hips.hearstapps.com/hmg-prod/images/pen-c3-a9lope-cruz-attends-the-ferrari-uk-photocall-on-december-news-photo-1701684960.jpg?crop=0.968xw:0.969xh;0.00850xw,0.0227xh&resize=980:*")
-   st.write("[Trends 2023](https://www.vogue.com/article/2023-fashion-items)")
+   st.markdown(" Another year has come and gone, which means it’s time to start planning our vision boards for the year ahead. But first, let's talk about the 2023 style trends that experts predict will take over our closets.  ")
+   st.image("https://img.kwcdn.com/garner-api/transfer/2023-9-22/88f1bdc6a4a58ac207142f980c9f22af.jpg?imageView2/2/w/800/q/70")
+   st.write("[Current](https://www.glamour.com/story/2023-style-trends)")
    
 
 with col2:
    st.subheader("Yesterday")
-   st.markdown(" It was no surprise to see Margot sitting front row at the event. The actress first signed on as a Chanel ambassador in 2018 and has worn Chanel almost exclusively.")
-   st.image("https://media1.popsugar-assets.com/files/thumbor/iktgYZTJsr8xwB8pYOrfVvOBZSg=/fit-in/760x1166/filters:format_auto():upscale()/2014/10/03/771/n/1922564/3e3824b685ab9de4_netimgMypm4x.jpg")
-   st.write("[Margot Robbie](https://uk.news.yahoo.com/margot-robbie-rocks-70s-fashion-101300400.html)")
+   st.markdown("All sorts of people, from doctors onwards, praised the new skirt, under the impression, apparently, that it had been prompted by the noblest of reasons. The woman of fashion was told that she had listened at last to the voice of hygiene, that in the interests of the public health she had ceased to sweep the germs of disease into the house. ")
+   st.image("https://i.guim.co.uk/img/media/5b26f3109f485ae0ea8db7fa84de9a5b5286a822/0_196_3964_2378/master/3964.jpg?width=620&dpr=1&s=none")
+   st.write("[Yesteryears](https://www.theguardian.com/fashion/2017/mar/14/skirts-fashion-archive-1906)")
    
 with col3:
    st.subheader("Modern")
-   st.markdown("Fashion historian Madeleine Seys says an example is the puffed sleeves and high necklines of the late 19th century that popped back into fashion in the 1970s and again over the last few years. ")
-   st.image("https://www.instyle.com/thmb/GcnKI6IkH5FHG_V01JJsoHHjTXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1680802089-4171434d57c84eca8882e921b6760cfa.jpg")
-   st.write("[Low-rise to Midriffs](https://www.abc.net.au/news/2023-12-05/fashion-trends-repeat-who-decides-whats-cool/103131144)")
+   st.markdown("Today, fashion is quite a phenomenon. In the olden days, clothing would help people show their societal status, and it would be fashion that helped to navigate in creating their style for the world to see. In our time, fashion is different: for clothes, makeup, books, hairstyles, and interior design.")
+   st.image("https://www.fashiongonerogue.com/wp-content/uploads/2021/06/Model-Hijab-Head-Scarf-White-Outfit.jpg")
+   st.write("[Modern](https://www.fashiongonerogue.com/what-know-fashion-modern-days/)")
    
    
 st.image("kmt01.jpg")

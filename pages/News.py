@@ -7,17 +7,17 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.header("Politics")
-   st.markdown("Democracy is arguably the greatest political buzzword of our time and is invoked by political leaders, corporations and citizens alike– but what does it mean? Can it be defined, measured, safeguarded? Can it be sold, bought, and transplanted? Can it grow? Can it die? What does it mean to people who can’t even talk about it? What does it mean to people who don’t believe in it?")
-   st.write("[Why Democracy](https://www.thewhy.dk/docuseries/why-democracy?gad_source=1&gclid=EAIaIQobChMIktiqs7D3ggMV1ltHAR0q3wQuEAAYASAAEgJMdPD_BwE)")
+   st.markdown("Civil rights organizations are asking the full 8th U.S. Circuit Court of Appeals to review a ruling by a three-judge panel that threatens to make it harder to enforce the Voting Rights Act's protections against racial discrimination in the election process.")
+   st.write("[POLITICS](https://www.npr.org/2023/12/11/1218306963/voting-rights-act-section-2-private-right-of-action)")
 
 with col2:
    st.header("World")
-   st.markdown(" The order was part of mass evacuations Israel called for in southern Gaza, where tens of thousands of displaced Palestinians have sought refuge as Israel’s quest to route Hamas continues in the form of renewed bombardment and a widened ground offensive. With Israel’s negotiators summoned home over the weekend and Hamas insisting on a permanent cease-fire before releasing any more hostages, the onslaught was renewed ")
-   st.write("[WHO Chief](https://www.yahoo.com/news/chief-begs-israel-rescind-order-212000523.html)")
+   st.markdown("A lot has been said in this context about central bank digital currencies (CBDCs), covering issues including data security and what separates them from other digital currencies. See below for a series of explainers on CBDCs and what they mean for people and economies. ")
+   st.write("[WORLD](https://www.weforum.org/agenda/2023/12/economy-news-2023-inflation-banking-jobs/)")
 
 with col3:
    st.header("Sports")
-   st.markdown(" Nix was just as outstanding as Daniels was during the season. He had the Ducks on the verge of a College Football Playoff berth, but two losses to Penix’s Huskies put them out of contention. In 13 games, he had 4,145 passing yards and 40 touchdown passes. He transferred from Auburn after the 2021 season.  ")
-   st.write("[Bo Nix](https://www.foxnews.com/sports/heisman-trophy-2023-jayden-daniels-bo-nix-michael-penix-jr-and-marvin-harrison-jr-named-finalists)")
+   st.markdown(" These historic shirts are not only a tangible reminder of one of the most important moments in the history of sports, but are principally connected to the pinnacle moment in the career of the most decorated football player in history ")
+   st.write("[SPORT](https://sports.yahoo.com/lionel-messis-2022-world-cup-jerseys-sell-for-78-million-at-auction-180211598.html)")
    
 st.image("kmt06.jpg")

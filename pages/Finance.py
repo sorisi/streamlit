@@ -9,17 +9,17 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.header("Bank")
-   st.markdown("When managing your personal finances, we understand the convenience you need—and the attention you deserve. That’s why at International Finance Bank, we believe in going the extra mile to simplify your big financial decisions along with your everyday tasks. ")
-   st.write("[Bank](https://www.ifbbank.com/)")
+   st.markdown("Nearly 170 former employees of California's failed First Republic Bank have sued the U.S. Federal Deposit Insurance Corporation (FDIC), alleging that the regulator is improperly blocking their access to at least $150 million in retirement funds, a plaintiffs' attorney said on Monday.  ")
+   st.write("[Bank](https://www.reuters.com/business/finance/former-first-republic-workers-sue-fdic-over-withheld-retirement-pay-2023-12-18/)")
 
 with col2:
    st.header("Stock")
-   st.markdown(" Stocks were on a rocket last month. Now they’re coming down to Earth somewhat. The three major indices were mixed Tuesday, with the Dow falling for a second straight day, the S&P 500 sliding a touch and the Nasdaq posting a slight gain.")
-   st.write("[Stock](https://www.cnbc.com/2023/12/06/5-things-to-know-before-the-stock-market-opens-wednesday-december-6.html)")
+   st.markdown("I’ve talked about several companies employing the new AI technology in a variety of ways. But, there are also non-technology centric (at least not AI focused technology) ways to get in on the AI boom, that should have long term legs regardless of how AI is eventually employed.  ")
+   st.write("[Stock](https://stocknews.com/news/vrt-nvda-hon-this-ai-backbone-stock-should-win-big-in-the-ai/)")
 
 with col3:
    st.header("Real Estate")
-   st.markdown(" Industry economists with the real estate listings website determined the top 10 housing markets that are expected to fare well in 2024 in terms of sales growth. Home sales are expected to rise slightly over the coming year nationwide, but Realtor.com expects markets in the Northeast, Midwest and Southern California.")
-   st.write("[Real Estate](https://www.foxbusiness.com/lifestyle/top-housing-markets-for-2024)")
+   st.markdown("The housing in our neighborhoods should be homes for people, not profit centers for Wall Street,” said Merkley. “Yet, in every corner of the country, giant financial corporations are buying up housing and driving up both rents and home prices. It’s time for Congress to put in place commonsense guardrails that ensure all families have a fair chance to buy or rent a decent home in their community at a price they can  ")
+   st.write("[Real Estate](https://wrenews.com/new-bill-would-ban-hedge-funds-from-owning-single-family-homes/)")
    
 st.image("HM01.jpg")
