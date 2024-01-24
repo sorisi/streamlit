@@ -20,4 +20,4 @@ with col3:
    st.markdown(" Japan coach Hajime Moriyasu said he was ashamed and appalled to see his goalkeeper Zion Suzuki subjected to racial abuse on social media after they lost their second Asian Cup group game against Iraq last week.")
    st.write("[SPORT](https://www.reuters.com/sports/soccer/japan-coach-moriyasu-appalled-by-racist-abuse-directed-keeper-suzuki-2024-01-23/)")
    
-st.image("News02.png")
+st.image("news02.png")
