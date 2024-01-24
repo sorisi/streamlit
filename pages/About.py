@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.header("Home of Savings or Investment (SORI)")
-st.image("stklogo.png")
+st.image("About01.png")
 
 
 col1, col2 = st.columns(2)
@@ -16,4 +16,4 @@ with col2:
    st.header("Investment")
    st.markdown("First, I ensured I had saved up for emergencies and extra funds I didn't have to touch for at least two years. That was my way of taking action for targeted investment. We can do and think all kinds of investment can be done. But with limited funds, investing in stock would be perfect rather than having funds sitting in a savings account. ")
    
-st.image("banner02.png")
+st.image("About02.png")

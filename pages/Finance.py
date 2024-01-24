@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header("Home of Savings or Investment (SORI)")
 
-st.image("logo031.png")
+st.image("Finance01.png")
 
 
 col1, col2, col3 = st.columns(3)
@@ -22,4 +22,4 @@ with col3:
    st.markdown("The housing in our neighborhoods should be homes for people, not profit centers for Wall Street,” said Merkley. “Yet, in every corner of the country, giant financial corporations are buying up housing and driving up both rents and home prices. It’s time for Congress to put in place commonsense guardrails that ensure all families have a fair chance to buy or rent a decent home in their community at a price they can  ")
    st.write("[Real Estate](https://wrenews.com/new-bill-would-ban-hedge-funds-from-owning-single-family-homes/)")
    
-st.image("HM01.jpg")
+st.image("Finance02.png")

@@ -1,28 +1,28 @@
 import streamlit as st
 
 
-st.image("toppf.png")
+st.image("Fashion05.png")
 
 col1, col2, col3 = st.columns(3)
 
 with col1:
    st.subheader("Current")
-   st.markdown(" Another year has come and gone, which means it’s time to start planning our vision boards for the year ahead. But first, let's talk about the 2023 style trends that experts predict will take over our closets.  ")
-   st.image("https://img.kwcdn.com/garner-api/transfer/2023-9-22/88f1bdc6a4a58ac207142f980c9f22af.jpg?imageView2/2/w/800/q/70")
-   st.write("[Current](https://www.glamour.com/story/2023-style-trends)")
+   st.markdown(" Being a mob wife is a full-time job. Not only are you probably privy to unsavoury information and sworn to some kind of life-altering secrecy, but you must also always look fabulous. How does one embody this all-encompassing attitude? By curating the perfect mob wife outfit.")
+   st.image("https://fashionmagazine.com/wp-content/uploads/2024/01/HORIZONTAL-FEATURE-IMAGE-TEMPLATE-1200x800-c-top.png")
+   st.write("[Current](https://fashionmagazine.com/style/shopping/mob-wife-outfit/)")
    
 
 with col2:
    st.subheader("Yesterday")
-   st.markdown("All sorts of people, from doctors onwards, praised the new skirt, under the impression, apparently, that it had been prompted by the noblest of reasons. The woman of fashion was told that she had listened at last to the voice of hygiene, that in the interests of the public health she had ceased to sweep the germs of disease into the house. ")
-   st.image("https://i.guim.co.uk/img/media/5b26f3109f485ae0ea8db7fa84de9a5b5286a822/0_196_3964_2378/master/3964.jpg?width=620&dpr=1&s=none")
-   st.write("[Yesteryears](https://www.theguardian.com/fashion/2017/mar/14/skirts-fashion-archive-1906)")
+   st.markdown(" When Christian Dior’s “New Look” appeared in February 1947, it became an instant success and the nipped-in waist and full-skirted silhouette remained the leading style until the mid-1950s. As the decade progressed, the dominant silhouette became progressively straighter and slimmer, and as fashion began to look to the new “teenager” for inspiration, the elegance and formality of the early part of the decade began to lessen.")
+   st.image("https://fashionhistory.fitnyc.edu/wp-content/uploads/2017/08/1950-fashionc-1280x640.jpg")
+   st.write("[Yesteryears](https://fashionhistory.fitnyc.edu/1950-1959/)")
    
 with col3:
    st.subheader("Modern")
-   st.markdown("Today, fashion is quite a phenomenon. In the olden days, clothing would help people show their societal status, and it would be fashion that helped to navigate in creating their style for the world to see. In our time, fashion is different: for clothes, makeup, books, hairstyles, and interior design.")
-   st.image("https://www.fashiongonerogue.com/wp-content/uploads/2021/06/Model-Hijab-Head-Scarf-White-Outfit.jpg")
-   st.write("[Modern](https://www.fashiongonerogue.com/what-know-fashion-modern-days/)")
+   st.markdown("While modern and classic fashion style are two very different movements, they also have many similarities that allow fashionistas to experiment with both. Creating clothing combinations of neutral wardrobe essentials and bold modern garments could be quite successful. ")
+   st.image("https://d2line.com/thatlook/wp-content/uploads/sites/4/2022/08/mediterranean-style-d2line-modern-fashion.png")
+   st.write("[Modern](https://d2line.com/thatlook/modern-vs-classic-fashion-style/)")
    
    
-st.image("kmt01.jpg")
+st.image("Fashion04.png")

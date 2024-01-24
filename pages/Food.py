@@ -1,30 +1,30 @@
 import streamlit as st
 
 
-st.image("phf01L.jpg")
+st.image("Food04.png")
 st.header("RECIPE OF THE DAY")
 
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.header("Beef")
-   st.markdown("Chunks of well-marbled beef are seared in a hot pan, then gently braised with garlic and onions in a rich wine-based broth. After a few hours in the oven, the meat becomes meltingly tender and enveloped in a deeply flavorful sauce.")
-   st.write("[BEEF](https://www.onceuponachef.com/recipes/beef-stew-with-carrots-potatoes.html)")
+   st.header("Meat")
+   st.markdown("The highly coveted “Extreme Croquettes” are one of four types of Kobe beef croquettes available at Asahiya. Can’t wait nearly four decades? The shop’s Premier Kobe Beef Croquettes currently have a more palatable four-year waitlist.")
+   st.write("[MEAT](https://www.cnn.com/travel/japanese-kobe-beef-croquettes-43-year-wait-list-intl-hnk/index.html)")
 
 with col2:
-   st.header("Chicken")
-   st.markdown(" One of the reasons we love chicken, and likely why it’s so popular, is just how adaptable this poultry can be. You can make a super simple chicken recipe in just thirty minutes, without sacrificing flavor, or you can use chicken to make a show-stopping main dish. ")
-   st.write("[CHICKEN](https://www.foodandwine.com/meat-poultry/chicken)")
+   st.header("Pasta")
+   st.markdown(" Shrimp and pasta are an incredibly versatile pairing and a winning dinner solution. So, when you want a light dinner with protein, vegetables, and some pasta to fill you up, these shrimp pasta recipes are the way to go. Shrimp can handle spices from all around the world­; ­­­­they're equally as delicious with olive oil, parsley, and lemon as they are with mango,")
+   st.write("[PASTA](https://www.marthastewart.com/shrimp-pasta-recipes-8547437)")
 
 with col3:
    st.header("Vegetable")
-   st.markdown("At least nine different families of fruits and vegetables exist, each with potentially hundreds of different plant compounds that are beneficial to health. Eat a variety of types and colors of produce in order to give your body the mix of nutrients it needs. This not only ensures a greater diversity of beneficial plant chemicals but also creates eye-appealing meals.")
+   st.markdown("In a world grappling with challenges like population growth, climate change and food security, a new approach to agriculture is on the horizon. Vertical farming is growing crops on vertically stacked layers in a controlled environment.")
 
-   st.write("[VEGETABLE / FRUITS](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/)")
+   st.write("[VEGETABLE / FRUITS](https://www.farmprogress.com/vegetables/1218f1-3407-slideshow)")
    
    
    
-#st.image("kmt05.jpg")
+st.image("food01.png")
 
 
          

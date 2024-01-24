@@ -1,5 +1,5 @@
 import streamlit as st
-#import yfinance as yf
+import yfinance as yf
 import pandas as pd
 import numpy as np
 import datetime
@@ -7,7 +7,7 @@ import datetime
 #ad.user_cache_dir = lambda *args: "/tmp"
 
 st.header("Home of Savings or Investment (SORI)")
-st.image("nov2023.png")
+st.image("Stock01.png")
 
 tickers = ('TSLA', 'AAPL', 'AMZN', 'SQ', 'COIN','BRK-B','BIT-USD', 'MSTR')
 
@@ -24,7 +24,7 @@ def relativeret(df):
     return cumret
 
 if len(dropdown) > 0:
-    #df = yf.download(dropdown,start,end)['Adj Close']
+    df = yf.download(dropdown,start,end)['Adj Close']
     df = relativeret(yf.download(dropdown,start,end)['Adj Close'])
     st.header('*Returns of {}*'.format(dropdown))
     st.line_chart(df)
@@ -51,5 +51,5 @@ with tab5:
    st.header("BRK-A")
    st.image("https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vsnwi4ppyv3n8p3u9y9o", width=200)
    
-st.image("kmt04.jpg")
+st.image("Stock02.png")
 

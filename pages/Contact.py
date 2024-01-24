@@ -11,7 +11,7 @@ contact_form = """
 """
 
 st.header("Home of Savings or Investment (SORI)")
-st.image("logo031.png")
+st.image("Contact03.png")
 st.subheader(":mailbox: Get in Touch")
 
 st.container()
@@ -22,4 +22,4 @@ def local_css(file_name):
     
 local_css("style/style.css")
 
-st.image("kmt11.jpg")
+st.image("Contact04.png")

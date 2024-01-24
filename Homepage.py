@@ -24,13 +24,13 @@ with col2:
 with col3:
    st.image("phws01.jpg")
 with col1:
-   st.image("phf02.jpg")
+   st.image("Home04.png")
 
 with col2:
    st.image("ph10.jpg")
 
 with col3:
-   st.image("phf01.jpg")
+   st.image("Home03.png")
 with col1:
    st.image("lon02.jpg")
 
@@ -40,4 +40,4 @@ with col2:
 with col3:
    st.image("lon01.jpg")
    
-st.image("kmt10.jpg")
+st.image("Home01.png")
