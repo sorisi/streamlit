@@ -24,7 +24,7 @@ with col3:
    
    
    
-st.image("food01.png")
+st.image("Food01.png")
 
 
          
