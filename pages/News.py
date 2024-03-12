@@ -7,17 +7,17 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.header("Politics")
-   st.markdown("Democracy is arguably the greatest political buzzword of our time and is invoked by political leaders, corporations and citizens alike– but what does it mean? Can it be defined, measured, safeguarded? Can it be sold, bought, and transplanted? Can it grow? Can it die? What does it mean to people who can’t even talk about it? What does it mean to people who don’t believe in it?")
-   st.write("[POLITICS](https://www.thewhy.dk/docuseries/why-democracy?gad_source=1&gclid=EAIaIQobChMI4JuRptr0gwMVjElHAR1hKQHjEAAYAiAAEgKZfvD_BwE)")
+   st.markdown("Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere")
+   st.write("[POLITICS](https://www.politico.com/gallery/2024/03/08/the-nations-cartoonists-on-the-week-in-politics-00145777?slide=0)")
 
 with col2:
    st.header("World")
-   st.markdown("Lawmakers ratified Sweden’s accession protocol 287 to 55, with ruling party members saying the Nordic country’s tougher stance on Kurdish militants was key to winning approval. President Recep Tayyip Erdogan also previously has linked the ratification to Turkey’s desire to buy fighter jets from the U.S. ")
-   st.write("[WORLD](https://apnews.com/article/turkey-sweden-nato-kurdish-militants-quran-ff81aa2d36160428d766579963f97fce)")
+   st.markdown("It's become a bit of addiction - the world is so big and beautiful and a bike is fast enough that you can get from A to B, but slow enough - as I am only doing 80-100km a day that you get an opportunity to see the world properly and spend time with the people who inhabit it ")
+   st.write("[WORLD](https://www.bbc.com/news/articles/cn04gyg2k86o)")
 
 with col3:
    st.header("Sports")
-   st.markdown(" Japan coach Hajime Moriyasu said he was ashamed and appalled to see his goalkeeper Zion Suzuki subjected to racial abuse on social media after they lost their second Asian Cup group game against Iraq last week.")
-   st.write("[SPORT](https://www.reuters.com/sports/soccer/japan-coach-moriyasu-appalled-by-racist-abuse-directed-keeper-suzuki-2024-01-23/)")
+   st.markdown("She's now the all-time leader for 3-point field goals made in a single NCAA season, a record that she'd previously tied, in company with Golden State Warriors legend and former Davidson star Stephen Curry and former Liberty guard Darius McGhee at 162. ")
+   st.write("[SPORT](https://sports.yahoo.com/caitlin-clark-surpasses-stephen-curry-to-break-ncaa-record-for-3-pointers-in-a-season-011451636.html)")
    
 st.image("News02.png")

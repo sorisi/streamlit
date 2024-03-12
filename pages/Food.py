@@ -2,25 +2,24 @@ import streamlit as st
 
 
 st.image("Food04.png")
-st.header("RECIPE OF THE DAY")
 
 col1, col2, col3 = st.columns(3)
 
 with col1:
    st.header("Meat")
-   st.markdown("The highly coveted “Extreme Croquettes” are one of four types of Kobe beef croquettes available at Asahiya. Can’t wait nearly four decades? The shop’s Premier Kobe Beef Croquettes currently have a more palatable four-year waitlist.")
-   st.write("[MEAT](https://www.cnn.com/travel/japanese-kobe-beef-croquettes-43-year-wait-list-intl-hnk/index.html)")
+   st.markdown("The lawsuit against JBS is ultimately about much more than JBS alone. Given the lack of clear regulatory commitment on the part of entities like the USDA, litigation may be a valuable tool to signal to Big Meat that they are being watched and that there are consequences for lying about their climate commitments.")
+   st.write("[MEAT](https://www.vox.com/future-perfect/2024/3/8/24093774/big-meat-jbs-lawsuit-greenwashing-climate-new-york)")
 
 with col2:
    st.header("Pasta")
-   st.markdown(" Shrimp and pasta are an incredibly versatile pairing and a winning dinner solution. So, when you want a light dinner with protein, vegetables, and some pasta to fill you up, these shrimp pasta recipes are the way to go. Shrimp can handle spices from all around the world­; ­­­­they're equally as delicious with olive oil, parsley, and lemon as they are with mango,")
-   st.write("[PASTA](https://www.marthastewart.com/shrimp-pasta-recipes-8547437)")
+   st.markdown(" There is artistry, too, of course, in the act of cooking pasta, coaxing them along a textural spectrum between toothsomeness and pliancy. Robbins might boil a dried, extruded noodle so that it still has a filament of hardness running through it, whereas she’ll let her hand-cut specimens slump with jellyfish languor. ")
+   st.write("[PASTA](https://www.newyorker.com/culture/the-food-scene/missy-robbinss-lowest-key-pasta-paradiso-misipasta)")
 
 with col3:
    st.header("Vegetable")
-   st.markdown("In a world grappling with challenges like population growth, climate change and food security, a new approach to agriculture is on the horizon. Vertical farming is growing crops on vertically stacked layers in a controlled environment.")
+   st.markdown("Four small apple trees from Plants Nouveau called Blushing Delight, Golden Treat, Tangy Green, and Tasty Red, work well for people like Damiano who have limited garden space. The trees grow to 2.5 to 3 meters tall and just a meter wide. And they will even grow in containers. ")
 
-   st.write("[VEGETABLE / FRUITS](https://www.farmprogress.com/vegetables/1218f1-3407-slideshow)")
+   st.write("[VEGETABLE / FRUITS](https://learningenglish.voanews.com/a/garden-expert-tries-new-fruits-vegetables/7504911.html)")
    
    
    

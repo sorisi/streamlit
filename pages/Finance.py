@@ -9,17 +9,17 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.header("Bank")
-   st.markdown("Nearly 170 former employees of California's failed First Republic Bank have sued the U.S. Federal Deposit Insurance Corporation (FDIC), alleging that the regulator is improperly blocking their access to at least $150 million in retirement funds, a plaintiffs' attorney said on Monday.  ")
-   st.write("[Bank](https://www.reuters.com/business/finance/former-first-republic-workers-sue-fdic-over-withheld-retirement-pay-2023-12-18/)")
+   st.markdown("The rate-cut-mania-inspired plunge in longer-term yields at the end of Q4, now partially reverse, had a salubrious effect on the balance sheets of commercial banks, according to the FDIC’s quarterly bank data released on Thursday.  ")
+   st.write("[Bank](https://wolfstreet.com/2024/03/10/the-banks-unrealized-losses-securities-held-by-banks-bank-failures-and-the-dropping-bank-count/)")
 
 with col2:
    st.header("Stock")
-   st.markdown("I’ve talked about several companies employing the new AI technology in a variety of ways. But, there are also non-technology centric (at least not AI focused technology) ways to get in on the AI boom, that should have long term legs regardless of how AI is eventually employed.  ")
-   st.write("[Stock](https://stocknews.com/news/vrt-nvda-hon-this-ai-backbone-stock-should-win-big-in-the-ai/)")
+   st.markdown("The stock has soared over the past decade, and while e-commerce remains the company's largest source of revenue, its other segments are making notable contributions to its profits and success. ")
+   st.write("[Stock](https://finance.yahoo.com/news/buying-super-stock-59-could-092600615.html)")
 
 with col3:
    st.header("Real Estate")
-   st.markdown("The housing in our neighborhoods should be homes for people, not profit centers for Wall Street,” said Merkley. “Yet, in every corner of the country, giant financial corporations are buying up housing and driving up both rents and home prices. It’s time for Congress to put in place commonsense guardrails that ensure all families have a fair chance to buy or rent a decent home in their community at a price they can  ")
-   st.write("[Real Estate](https://wrenews.com/new-bill-would-ban-hedge-funds-from-owning-single-family-homes/)")
+   st.markdown("Chinese investors, once among the most active buyers of commercial property in the United States, sold US$31.7 billion of US commercial real estate between 2019 and last year, 15 times more than what they acquired during the same period, according to MSCI Real Assets, a real estate and infrastructure data provider. ")
+   st.write("[Real Estate](https://www.scmp.com/property/article/3254787/chinese-investors-offloaded-us317-billion-us-commercial-real-estate-over-last-five-years-driven)")
    
 st.image("Finance02.png")
