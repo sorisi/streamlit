@@ -20,4 +20,4 @@ with col3:
    st.markdown("She's now the all-time leader for 3-point field goals made in a single NCAA season, a record that she'd previously tied, in company with Golden State Warriors legend and former Davidson star Stephen Curry and former Liberty guard Darius McGhee at 162. ")
    st.write("[SPORT](https://sports.yahoo.com/caitlin-clark-surpasses-stephen-curry-to-break-ncaa-record-for-3-pointers-in-a-season-011451636.html)")
    
-st.image("News02.png")
+st.image("news02.png")
