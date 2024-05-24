@@ -7,22 +7,22 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
    st.subheader("Current")
-   st.markdown("Goodbye, lumpy puffers and salt-caked boots. Hello, spring 2024 fashion trends! If your wardrobe is starting to feel a bit tired after months of gray skies and howling winds, you’re in luck—a new season is on the way, bringing plenty of fresh inspiration from the spring runways along with it.  ")
-   st.image("https://media.glamour.com/photos/65cce0375ea0c25e5b06764f/master/w_1920,c_limit/spring%202024%20fashion%20trends.jpg")
-   st.write("[Current](https://www.glamour.com/story/2024-fashion-trends)")
+   st.markdown(" British department store retailer John Lewis has introduced a selection of menswear brands to its rental offering in response to heightened demand from consumers on its e-commerce site.  ")
+   st.image("https://fashionunited.com/r/fit=cover,format=auto,gravity=center,height=463,quality=70,width=694/https://fashionunited.com/img/upload/2024/05/23/menswear-rental-hugo-boss-lloxlpkr-2024-05-23.jpeg")
+   st.write("[Current](https://fashionunited.com/news/fashion/john-lewis-launches-mens-rental-service-responding-to-significant-demand/2024052360015)")
    
 
 with col2:
-   st.subheader("Yesterday")
-   st.markdown(" Remakes are everywhere right now – from TV shows to movies to music – even history tends to repeat itself. And fashion is no different. Styles have a tendency to show up again every few decades. As teens of the ‘90s, some of us wish we had held on to our clothing from that decade. Let’s take a look at what’s as trendy now as it was years ago.")
-   st.image("https://www.mycitymag.com/wp-content/uploads/2022/08/Style-082022-00-702x336.jpg")
-   st.write("[Yesteryears](https://www.mycitymag.com/summer-trends-from-yesteryear/)")
+   st.subheader("Yesteryear")
+   st.markdown("The noughties enthusiast has built an online following from her comedic takedowns of yesteryear's trends. The creator has once again gone viral after poking fun at images of herself from 2009, in which she is rocking the hottest styles of that year. ")
+   st.image("https://d.newsweek.com/en/full/2396609/jenna-barclay.webp?w=790&f=a1b4452c39a9f4929d9945331a937533")
+   st.write("[Yesteryears](https://www.newsweek.com/woman-social-media-noughties-fashion-1902900)")
    
 with col3:
    st.subheader("Modern")
-   st.markdown(" Today, fashion is quite a phenomenon. In the olden days, clothing would help people show their societal status, and it would be fashion that helped to navigate in creating their style for the world to see. In our time, fashion is different: for clothes, makeup, books, hairstyles, and interior design. ")
-   st.image("https://www.fashiongonerogue.com/wp-content/uploads/2021/06/Model-Hijab-Head-Scarf-White-Outfit.jpg")
-   st.write("[Modern](https://www.fashiongonerogue.com/what-know-fashion-modern-days/)")
+   st.markdown(" Turner wheeled a silver Rimowa cabin case decked out with a smorgasbord of luggage stickers. From afar, the pair could have been mistaken for travelers from the 1960s (though Lipa’s cherry Coke-colored tresses and Puma sneakers slightly give the game away), wistfully accruing mementos and keepsakes from trips abroad. ")
+   st.image("https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2114886211.jpg?q=w_2000,c_fill/f_webp")
+   st.write("[Modern](https://www.cnn.com/2024/03/29/style/dua-lipa-callum-turner-lotw/index.html)")
    
    
 st.image("Fashion04.png")
